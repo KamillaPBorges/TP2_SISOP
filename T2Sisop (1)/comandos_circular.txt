@@ -1,0 +1,9 @@
+IN(A, 5)
+IN(B, 3)
+IN(C, 4)
+OUT(B)
+IN(D, 2)
+IN(E, 6)
+OUT(A)
+OUT(C)
+
